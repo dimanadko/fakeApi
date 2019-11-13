@@ -1,0 +1,18 @@
+notifications: [
+    {
+      name: "notification 1",
+      id: "notification_1",
+      description: "description 1",
+      type: "type1",
+      read: false,
+      time: "12/11/2019"
+    },
+    {
+      name: "notification 2",
+      id: "notification_2",
+      description: "description 2",
+      type: "type2",
+      read: true,
+      time: "11/11/2019"
+    }
+  ]
