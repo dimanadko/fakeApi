@@ -1,20 +1,14 @@
 {
-   "notifications": [
-      {
-         "name": "notification 1",
-         "id": "notification_1",
-         "description": "description 1",
-         "type": "type1",
-         "read": false,
-         "time": "12/11/2019"
-      },
-      {
-         "name": "notification 2",
-         "id": "notification_2",
-         "description": "description 2",
-         "type": "type2",
-         "read": true,
-         "time": "11/11/2019"
-      }
-   ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
