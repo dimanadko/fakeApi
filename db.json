@@ -3,22 +3,20 @@
       {
          "id": "notification_1",
          "read_at": false,
-         "created_at": "12/11/2019"
-         "data": 
-            {
-                "name": "notification 1",
-                "description": "description 1",
-            }
+         "created_at": "12/11/2019",
+         "data": {
+            "name": "notification 1",
+            "description": "description 1"
+         }
       },
       {
          "id": "notification_2",
          "read_at": false,
-         "created_at": "12/11/2019"
-         "data": 
-            {
-                "name": "notification 2",
-                "description": "description 2",
-            }
-      },
+         "created_at": "12/11/2019",
+         "data": {
+            "name": "notification 2",
+            "description": "description 2"
+         }
+      }
    ]
 }
